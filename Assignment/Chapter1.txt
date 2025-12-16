@@ -1,0 +1,59 @@
+CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB
+
+GROUP A
+
+1 ans: A protocol is a set of rules and standards that govern how data is transmitted and received over the Internet between devices.
+
+2 ans: A web browser is software used to access and view websites (e.g., Chrome, Firefox), whereas a search engine is a service that helps users find information on the web (e.g., Google, Bing).
+
+3 ans: The World Wide Web is a system of interlinked web pages and resources accessed through the Internet using web browsers.
+
+4 ans: A static web page displays the same content to all users and does not change automatically, while a dynamic web page generates content in real time based on user interaction or data from a server.
+
+
+Group B
+
+5 ans:The web works on a client–server architecture. In this system, there are two main parts: the client and the server.
+
+The client is the user’s device, such as a computer or mobile phone, which uses a web browser (like Chrome or Firefox).
+
+The server is a powerful computer that stores websites, web pages, and data.
+
+When a user types a website address in the browser, the client sends a request to the server. The server processes this request and sends the required web page back to the client. The browser then displays the page to the user.
+
+Neat Diagram:
+
+Client (Web Browser)  ----Request---->  Web Server
+Client (Web Browser)  <---Response----  Web Server
+
+
+
+6 ans: Functions of Internet Services
+a) Email (Electronic Mail)
+
+Email is used to send and receive messages over the Internet. Users can send text, images, documents, and other files to anyone in the world within seconds. Email is fast, cheap, and easy to use.
+
+b) FTP (File Transfer Protocol)
+
+FTP is used to transfer files between computers over the Internet. It allows users to upload files to a server or download files from it. FTP is commonly used to share large files and manage website data.
+
+c) VoIP (Voice over Internet Protocol)
+
+VoIP allows people to make voice and video calls using the Internet instead of traditional telephone lines. Examples include WhatsApp calls, Zoom, and Skype. It is cost-effective and supports long-distance communication.
+
+
+
+
+7 ans:The Internet is a Network of Networks”
+
+The Internet is called a network of networks because it connects millions of smaller networks across the world, such as home networks, school networks, and office networks.
+
+These networks are connected using a method called packet switching. In packet switching:
+
+Data is broken into small parts called packets.
+
+Each packet travels independently through different routes on the Internet.
+
+At the destination, all packets are reassembled to form the original data.
+
+This method makes data transfer fast and efficient, even if some paths are busy or unavailable. Because many networks are connected together and share data in this way, the Internet is truly a network of networks.
