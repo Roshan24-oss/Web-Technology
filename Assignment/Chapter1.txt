@@ -57,3 +57,43 @@ Each packet travels independently through different routes on the Internet.
 At the destination, all packets are reassembled to form the original data.
 
 This method makes data transfer fast and efficient, even if some paths are busy or unavailable. Because many networks are connected together and share data in this way, the Internet is truly a network of networks.
+
+
+
+Gropu C
+
+8 ans: In this case, I would not agree with the advice to use a dynamic website.
+
+The startup wants:
+
+The same information for all visitors
+
+Very low maintenance cost
+
+A static website is the best choice because static websites show fixed content and do not require databases or server-side processing. They are cheaper to host, faster to load, and easier to maintain. Updates are needed only when the content changes.
+
+Dynamic websites are useful when content changes frequently, users interact with the site, or personalized data is required. Since the startup does not need these features, using a dynamic website would increase cost and complexity unnecessarily.
+
+Conclusion: A static website is more suitable for the startup’s requirements.
+
+
+
+9 ans: The problem here is with the DNS (Domain Name System).
+
+When the user types www.google.com
+, the browser uses DNS to convert the domain name into an IP address. In this case, DNS failed to resolve the name, so the browser shows a “Server Not Found” error.
+
+However, when the user directly enters the IP address 142.250.190.46, the website opens successfully. This means:
+
+Internet connection is working
+
+Google’s server is reachable
+
+Only the name-to-IP translation failed
+
+Underlying technology that failed:
+ DNS (Domain Name System)
+
+
+
+ 
