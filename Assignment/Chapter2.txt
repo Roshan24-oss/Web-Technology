@@ -1,0 +1,12 @@
+CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
+
+
+Group A
+
+1 ans: A Sitemap is a visual or hierarchical representation of a website’s structure, showing all the pages and their relationships. It helps plan navigation and content organization before development begins.
+
+2 ans: The Launch phase is when the website is made live for public access. Its purpose is to deploy the website, ensure it functions correctly on the server, and make it available to users.
+
+3 ans : Documentation records details of the website’s design, code, features, and processes. It is important because it aids maintenance, future updates, and helps developers understand the system easily.
+
+4 ans : Front-end and Back-end development serve different roles in web development. Front-end development focuses on the user interface and user experience, handling what users see and interact with on a website, such as buttons, menus, and forms. It typically uses technologies like HTML, CSS, JavaScript, and frameworks like React or Angular. In contrast, back-end development deals with the server, database, and application logic, managing what happens behind the scenes. It ensures that data is processed correctly, servers respond to requests, and features like database queries and user authentication work properly, often using technologies such as PHP, Python, Node.js, Java, and SQL. Together, front-end and back-end development create a complete, functional website.
