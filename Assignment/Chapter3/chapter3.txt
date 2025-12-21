@@ -1,0 +1,136 @@
+CHAPTER 3: WEBSITE STRUCTURE DESIGN
+
+Group A
+
+1 ans:Information Architecture (IA) is the process of organizing, structuring, and labeling content on a website so users can easily find and understand information.
+
+2 ans: A wireframe is a basic visual layout of a webpage that shows the placement of elements like menus, buttons, and content without colors or detailed design.
+
+3 ans: Cognitive Friction refers to the mental effort required by users to understand and use a website.
+
+4 ans: Search engines treat hyphens as word separators
+
+Underscores join words together
+✔ Better readability and SEO with hyphens
+
+Example:
+✔ web-design-basics
+✘ web_design_basics
+
+Group B
+
+
+5 ans: Compare Hierarchical and Linear website structures.
+Feature	Hierarchical Structure	Linear Structure
+Layout	Tree-like	Step-by-step
+Navigation	Multiple paths	Fixed sequence
+Flexibility	High	Low
+Best for	Large websites	Tutorials, forms
+
+Examples:
+
+Hierarchical: University website
+
+Linear: Online exam or checkout process
+
+6 ans: The Three-Click Rule states that users should be able to find any information on a website within three clicks.
+
+Significance:
+
+Improves usability
+
+Reduces frustration
+
+Keeps users engaged
+
+Encourages better navigation design
+
+7 ans: Card Sorting: Helps organize content based on how users think
+
+Flowcharts: Show user navigation paths and page connections
+
+Together, they help designers plan before building, ensuring a logical and user-friendly structure.
+
+
+Group C: 
+
+8 ans: Chosen Model: Hierarchical (Tree) Structure
+
+Reason:
+A university website has a large amount of categorized information that must be easy to navigate.
+
+Rough Diagram:
+
+Home
+ ├── Admissions
+ ├── Departments
+ │    ├── Science
+ │    ├── Arts
+ │    └── Engineering
+ ├── Alumni
+ └── News
+
+
+Justification:
+
+Easy to scale
+
+Clear categorization
+
+Suitable for hundreds of pages
+
+
+9 ans: Problem:
+
+Navigation menu hidden behind a small icon on desktop
+
+Users cannot find it quickly
+
+KISS Principle Violation:
+
+Design is too complex
+
+Desktop users expect visible menus
+
+Result:
+
+User confusion
+
+High bounce rate
+
+Solution:
+
+Display clear, visible navigation
+
+Use hamburger menus mainly for mobile
+
+
+10 ans: Bad URL:
+
+www.shop.com/prod?id=55&cat=9
+
+
+Problems:
+
+Hard to read
+
+Not user-friendly
+
+Poor SEO
+
+No meaningful keywords
+
+Improved URL using Page Slugs:
+
+www.shop.com/electronics/smartphone
+
+
+Benefits:
+
+Easy to understand
+
+SEO-friendly
+
+Better user trust
+
+Improves search ranking
