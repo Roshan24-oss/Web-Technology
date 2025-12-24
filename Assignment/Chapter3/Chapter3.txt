@@ -1,0 +1,86 @@
+CHAPTER 3: WEBSITE STRUCTURE DESIGN
+
+Group A:
+
+1 ans: Define Information Architecture (IA).
+Information Architecture (IA) is the practice of organizing, structuring, and labeling content on a website or app in a way that makes it easy for users to find information and complete tasks efficiently.
+
+2 ans: What is a ”Wireframe”?
+A wireframe is a low-fidelity visual guide that represents the skeletal structure of a website or app. It shows the layout, placement of content, navigation, and key interface elements without detailed design or styling.
+
+3 ans: Explain the concept of ”Cognitive Friction” in web design.
+Cognitive friction occurs when users face confusion or difficulty understanding or navigating a website. It happens due to unclear instructions, inconsistent design, or complicated workflows, which slows down decision-making and frustrates users.
+
+4 ans: Why should URL slugs use hyphens instead of underscores?
+Hyphens are preferred in URL slugs because search engines (like Google) treat hyphens as word separators, improving readability and SEO. Underscores are not treated as separators, which can hurt search ranking and clarity.
+
+
+Group B:
+
+5 ans: Compare and contrast Hierarchical (Tree) structure and Linear (Sequential) structure. Give an example of when to use each.
+
+Feature	Hierarchical (Tree) Structure	Linear (Sequential) Structure
+Organization	Content is arranged in a tree-like hierarchy with main categories and subcategories.	Content flows in a straight, step-by-step sequence.
+Navigation	Users can jump between categories but follow parent-child relationships.	Users follow a fixed order; one step after another.
+Example Use	University website (Admissions → Departments → Courses)	Online tutorials, step-by-step forms, checkout processes.
+Advantage	Handles large volumes of content, easy to scale.	Simple and guides users through a process without confusion.
+
+
+6 ans: The Three-Click Rule states that users should be able to reach any page on a website within three clicks from the homepage. Its significance is:
+
+Reduces user frustration.
+
+Enhances navigation efficiency.
+
+Improves overall UX by making information easy to access.
+
+
+7 ans: ”Plan before you do.” Explain how tools like Card Sorting and Flowcharts help in planning a website’s structure.
+
+Card Sorting: Users or designers organize topics or content into categories, helping identify logical groupings and labeling for menus.
+
+Flowcharts: Visualize user journeys, page hierarchies, and navigation paths.
+
+Both tools reduce cognitive friction, prevent design mistakes, and ensure a clear, user-friendly website structure.
+
+
+Group C:
+
+8 ans: You are designing a website for a University with hundreds of pages. Which structural model would you choose? Draw a rough diagram and justify your choice.
+
+Choice: Hierarchical (Tree) Structure.
+
+Justification: A university website has multiple departments, courses, and services. A tree structure allows users to start from a main category (e.g., Admissions, Departments) and drill down to subpages.
+
+Diagram (text version):
+
+Home
+├── Admissions
+│   ├── Undergraduate
+│   └── Graduate
+├── Departments
+│   ├── Science
+│   └── Arts
+├── Alumni
+└── News
+
+9 ans: A user visits a website but leaves within 10 seconds because they cannot find the navigation menu. Analyze this design failure using the ”KISS” principle.
+
+Analysis: The KISS principle (“Keep It Simple, Stupid”) emphasizes simplicity and clarity. Hiding the navigation menu behind a small icon violates KISS because it forces users to guess where to go. The menu should be visible and intuitive on all devices, especially desktops, to reduce cognitive friction.  
+
+
+10 ans: An e-commerce website has a URL structure like www.shop.com/prod?id=55&cat=9. Explain why this is bad for both users and Search Engines (SEO), and propose a better structure using Page Slugs.
+
+Problems:
+
+Hard to read and remember for users.
+
+Poor SEO because search engines cannot easily interpret query parameters.
+
+Better URL Structure: Use descriptive page slugs, e.g.,
+
+www.shop.com/electronics/smartphone-iphone-14
+Readable, memorable, and SEO-friendly.
+
+Clearly indicates the product category and name.
+
