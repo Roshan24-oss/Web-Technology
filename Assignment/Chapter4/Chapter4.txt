@@ -1,0 +1,115 @@
+CHAPTER 4: WEBSITE DESIGN PRINCIPLES
+
+Group A:
+
+1 ans: Differentiate between Legibility and Readability.
+
+Legibility refers to how easily individual characters or letters can be distinguished (e.g., font size, spacing, font style).
+
+Readability refers to how easily a block of text can be read and understood (e.g., line length, paragraph spacing, contrast).
+
+2 ans: The Rule of Thirds divides a page into three equal rows and three equal columns. Important elements are placed along these lines or intersections to create a balanced and visually appealing layout.
+
+3 ans: Limiting font families:
+
+Improves visual consistency
+
+Enhances readability
+
+Prevents clutter and confusion
+Typically, 2–3 font families are recommended.
+
+4 ans: Responsive Web Design is an approach where a website automatically adjusts its layout, images, and content to fit different screen sizes and devices such as mobiles, tablets, and desktops.
+
+
+Group B:
+
+5 ans: Users tend to scan web pages in an F-shaped pattern:
+
+First, they read horizontally across the top
+
+Then scan down the left side
+
+Finally, read shorter horizontal sections
+
+Influence on design:
+
+Place important content at the top and left
+
+Use headings, bullet points, and short paragraphs
+
+Highlight key information early
+
+6 ans: Colors influence user emotions and behavior:
+
+Blue: Trust, calmness, professionalism (used in banking, corporate, and healthcare websites)
+
+Red: Energy, urgency, excitement (used for sales, alerts, and call-to-action buttons)
+
+Green: Nature, growth, safety (used for eco-friendly, health, and finance websites)
+
+Choosing the right color improves user engagement and brand perception.
+
+7 ans: The 60-30-10 Rule helps create visual harmony:
+
+60% – Primary color (background)
+
+30% – Secondary color (sections, headers)
+
+10% – Accent color (buttons, highlights)
+
+
+
+Group C:
+
+8 ans: Importance of Image Optimization and file formats (JPEG vs PNG).
+
+Using raw high-resolution images increases file size and slows loading time.
+
+Image Optimization Importance:
+
+Reduces file size
+
+Improves page speed
+
+Enhances user experience and SEO
+
+File Formats:
+
+JPEG: Best for photographs; smaller file size with slight quality loss
+
+PNG: Best for logos and graphics; supports transparency but larger size
+
+Solution: Compress images and use JPEG for photos and PNG only when transparency is needed.
+
+9 ans: Critique of bright yellow background and Comic Sans for a Law Firm.
+
+Problems:
+
+Bright yellow: Causes eye strain and lacks professionalism
+
+Comic Sans: Informal and playful, unsuitable for a law firm
+
+Violates principles of color psychology and typography
+
+Better Alternative:
+
+Use neutral colors like navy blue, dark gray, or white
+
+Choose professional fonts such as Times New Roman, Georgia, or Roboto
+This builds trust, credibility, and seriousness.
+
+10 ans: Missing design principle and solution using Media Queries/Fluid Grids.
+
+Missing Principle: Responsive Web Design
+
+Problem Explanation:
+The site does not adapt to smaller screens, causing horizontal scrolling and zooming.
+
+Solution:
+
+Media Queries: Adjust layout and font sizes for different screen widths
+
+Fluid Grids: Use percentage-based layouts instead of fixed widths
+
+This ensures the website is readable and usable on all devices.
